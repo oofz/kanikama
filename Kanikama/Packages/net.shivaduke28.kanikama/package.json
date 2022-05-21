@@ -16,8 +16,13 @@
   },
   "samples": [
     {
-      "displayName": "KanikamaGI Sample",
-      "description": "Contains a sample scene",
+      "displayName": "Prefabs (required)",
+      "description": "Contains Prefabs used in KanikamaGI setup (required)",
+      "path": "Samples~/KanikamaPrefabs"
+    },
+    {
+      "displayName": "SampleScenes (optional)",
+      "description": "Contains a sample scene (optional)",
       "path": "Samples~/KanikamaSample"
     }
   ]

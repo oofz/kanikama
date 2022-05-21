@@ -13,5 +13,12 @@
   "category": "",
   "author": {
     "name": "shivaduke28"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "KanikamaGI Sample",
+      "description": "Contains a sample scene",
+      "path": "Samples~/KanikamaSample"
+    }
+  ]
 }

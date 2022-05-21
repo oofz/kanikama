@@ -1,0 +1,17 @@
+{
+  "name": "net.shivaduke28.kanikama",
+  "version": "2.1.1",
+  "displayName": "KanikamaGI",
+  "description": "KanikamaGI is a custom RealtimeGI library designed for VRChat.",
+  "unity": "2019.4",
+  "dependencies": {},
+  "keywords": [
+    "unity",
+    "unity3d",
+    "VRChat"
+  ],
+  "category": "",
+  "author": {
+    "name": "shivaduke28"
+  }
+}

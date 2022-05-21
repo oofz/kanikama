@@ -1,10 +1,14 @@
 {
-    "name": "Kanikama.Baking",
+    "name": "Kanikama.Editor",
     "references": [
-        "GUID:927056d837655ee478285fc6867f86fb"
+        "Kanikama",
+        "Kanikama.Bakery",
+        "Kanikama.Editor.Baking",
+        "Kanikama.Editor.Baking.Bakery"
     ],
     "includePlatforms": [
-        "Editor"
+        "Editor",
+        "LinuxStandalone64"
     ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
